@@ -2,5 +2,17 @@
   
 }
 .app .navbar img {
-  width: 120px;
+  width: 220px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-body .btn {
+  align-content: center;
+}
+
+.welcome .iphone-mockup {
+  max-width: 75%;
 }
